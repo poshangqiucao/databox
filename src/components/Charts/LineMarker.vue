@@ -157,7 +157,7 @@ export default {
           type: 'line',
           smooth: true,
           symbol: 'circle',
-          symbolSize: 5,
+          symbolSize: 10,
           showSymbol: false,
           lineStyle: {
             normal: {
@@ -218,7 +218,7 @@ export default {
               borderWidth: 12
             }
           },
-          data: [220, 182, 125, 145, 122, 191, 134, 150, 120, 110, 165, 122]
+          data: [222, 182, 125, 145, 122, 191, 134, 150, 120, 110, 165, 122]
         }]
       })
     }
